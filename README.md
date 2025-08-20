@@ -1,6 +1,7 @@
 # About
-TAB aims to be a superior all-in-one minecraft plugin for displaying information that outperforms all 
-similar plugins in terms of features, performance and compatibility.  
+TAB aims to be a superior all-in-one minecraft plugin for displaying information that outperforms all
+similar plugins in terms of features, performance and compatibility.
+This fork is customized for the **6B9T.NET** server with a light blue / aqua theme.
 More information can be found at [Why TAB?](https://github.com/NEZNAMY/TAB/wiki/Why-TAB%3F) wiki page.
 
 # Download
