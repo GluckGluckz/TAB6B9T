@@ -16,7 +16,7 @@ If you want to benefit from a recent change in the code before official release,
 from [GitHub actions](https://github.com/NEZNAMY/TAB/actions) (you must be logged into GitHub to be able to download it).  
 
 # Compiling
-Compilation requires JDK 21 and up.  
+Compilation requires JDK 21 or newer—check your environment with `java -version`.
 To compile the plugin, run `./gradlew build` from the terminal.  
 Once the plugin compiles, grab the jar from `/jar/build/libs/` folder.  
 The universal jar contains all modules for all supported platforms.
